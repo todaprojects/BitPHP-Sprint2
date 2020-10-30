@@ -22,17 +22,17 @@
   
 ## Usage
 
-1) App uses MySql database. The pre-configured database can be imported from the 'db_personnel_management.sql' file, located in the 'config' folder. Database tables:
+1) App uses MySql database. The pre-configured database can be imported from the **_'db_personnel_management.sql'_** file, located in the **_'config'_** folder. Database tables:
 
   ![image](https://user-images.githubusercontent.com/70706753/97680514-7598c300-1a9f-11eb-920f-3100441b39c2.png)
 
-2) MySql database configuration file 'db_config.php' is located in the 'config' folder. The following fields must be set matching your MySql server:
+2) MySql database configuration file **_'db_config.php'_** is located in the **_'config'_** folder. The following fields must be set matching your MySql server:
 
         'localhost' - location of your MySQL server and database
         'username' - user name of your MySQL server
         'password' - user password of your MySQL server
 
-3) After database configuration succeeds, app can be started by running 'index.php' on application's public document root directory.
+3) After database configuration succeeds, app can be started by running **_'index.php'_** on application's public document root directory.
 
   ![image](https://user-images.githubusercontent.com/70706753/97693085-49823f80-1aa9-11eb-9fc7-7b3b5bfd9297.png)
 
@@ -56,6 +56,6 @@
 
     - three corresponding actions, mentioned above;
 
-    - assigning project to a person after clicking 'update' button:
+    - assigning project to a person after clicking **_'update'_** button:
 
     ![image](https://user-images.githubusercontent.com/70706753/97696631-88ff5a80-1aae-11eb-853c-5bbaf0b6b44f.png)
